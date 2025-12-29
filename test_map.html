@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Map Key Test</title>
+    <script 
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNBPPstRLoq5OaaNb-je0djravYRUlW9A&callback=initMap"
+      async defer>
+    </script>
+    <style>
+      /* Make the map fill the screen */
+      #map { height: 100vh; width: 100%; }
+    </style>
+    <script>
+      function initMap() {
+        // Try to show a map of Mumbai
+        const mumbai = { lat: 19.0760, lng: 72.8777 };
+        const map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 12,
+          center: mumbai,
+        });
+        
+        // Add a marker just to be fancy
+        new google.maps.Marker({ position: mumbai, map: map, title: "It Works!" });
+      }
+    </script>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+</html>

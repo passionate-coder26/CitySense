@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "timestamp": 2.5,
+    "type": "pothole",
+    "lat": 19.1136,
+    "lng": 72.8697,
+    "risk_score": 85,
+    "notes": "Large crater in left lane"
+  },
+  {
+    "id": 2,
+    "timestamp": 12.8,
+    "type": "garbage",
+    "lat": 19.1140,
+    "lng": 72.8702,
+    "risk_score": 40,
+    "notes": "Overflowing bin on sidewalk"
+  },
+  {
+    "id": 3,
+    "timestamp": 25.0,
+    "type": "cctv_offline",
+    "lat": 19.1145,
+    "lng": 72.8710,
+    "risk_score": 90,
+    "notes": "Signal lost from Pole #44"
+  }
+]
