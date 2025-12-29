@@ -1,4 +1,6 @@
-# 🚔 CitySense Backend (Node.js + Google Gemini)
+const fs = require('fs');
+
+const content = `# 🚔 CitySense Backend (Node.js + Google Gemini)
 
 ## 📝 Project Overview
 **CitySense** is an AI-powered infrastructure monitoring system. 
@@ -14,17 +16,17 @@ This backend handles data ingestion from the Python ML model, serves detection d
 ## 🔑 Setup Instructions (For Teammates)
 
 1. **Install Dependencies**
-   `npm install`
+   \`npm install\`
 
 2. **Configure Environment**
-   Create a file named `.env` in the root folder.
+   Create a file named \`.env\` in the root folder.
    **Ask Abhiram for the actual keys** and paste them like this:
    
    GEMINI_API_KEY=AIzaSy...
    GOOGLE_MAPS_API_KEY=AIzaSy...
 
 3. **Start the Server**
-   `node server.js`
+   \`node server.js\`
    *Server runs at:* http://localhost:5000
 
 ---
@@ -62,3 +64,7 @@ To use the Map in the React Frontend, add this script to your index.html (inside
 
 ## ⚠️ Known Issues
 * **Google Maps Watermark:** You may see a "For Development Purposes Only" watermark on the map. This is expected (Developer Mode) and the map is still fully functional. **Do not worry about it.**
+`;
+
+fs.writeFileSync('README.md', content);
+console.log("✅ README.md created successfully!");

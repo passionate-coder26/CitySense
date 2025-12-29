@@ -1,5 +1,86 @@
 [
   {
+    "id": "1766996239",
+    "type": "water_logging",
+    "severity": "High",
+    "lat": 19.116148402758917,
+    "lng": 72.87197376249608,
+    "timestamp": "2025-12-29T13:47:19.174028",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996234",
+    "type": "water_logging",
+    "severity": "Low",
+    "lat": 19.119943129436358,
+    "lng": 72.86784453109219,
+    "timestamp": "2025-12-29T13:47:14.163681",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996229",
+    "type": "garbage",
+    "severity": "Critical",
+    "lat": 19.115325036958946,
+    "lng": 72.87222091099615,
+    "timestamp": "2025-12-29T13:47:09.152361",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996224",
+    "type": "garbage",
+    "severity": "Medium",
+    "lat": 19.118432406010015,
+    "lng": 72.87526566204716,
+    "timestamp": "2025-12-29T13:47:04.143283",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996219",
+    "type": "garbage",
+    "severity": "High",
+    "lat": 19.106684730013807,
+    "lng": 72.87001710726038,
+    "timestamp": "2025-12-29T13:46:59.129159",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996214",
+    "type": "garbage",
+    "severity": "Critical",
+    "lat": 19.119106338391326,
+    "lng": 72.86420511974961,
+    "timestamp": "2025-12-29T13:46:54.117966",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996209",
+    "type": "water_logging",
+    "severity": "High",
+    "lat": 19.122542158313067,
+    "lng": 72.8762524438177,
+    "timestamp": "2025-12-29T13:46:49.105152",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996204",
+    "type": "water_logging",
+    "severity": "Low",
+    "lat": 19.120024772033904,
+    "lng": 72.85972418313105,
+    "timestamp": "2025-12-29T13:46:44.094768",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1766996199",
+    "type": "water_logging",
+    "severity": "Medium",
+    "lat": 19.121122157308086,
+    "lng": 72.8672548022633,
+    "timestamp": "2025-12-29T13:46:39.064911",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
     "id": 1,
     "timestamp": 2.5,
     "type": "pothole",
@@ -12,17 +93,17 @@
     "id": 2,
     "timestamp": 12.8,
     "type": "garbage",
-    "lat": 19.1140,
+    "lat": 19.114,
     "lng": 72.8702,
     "risk_score": 40,
     "notes": "Overflowing bin on sidewalk"
   },
   {
     "id": 3,
-    "timestamp": 25.0,
+    "timestamp": 25,
     "type": "cctv_offline",
     "lat": 19.1145,
-    "lng": 72.8710,
+    "lng": 72.871,
     "risk_score": 90,
     "notes": "Signal lost from Pole #44"
   }
