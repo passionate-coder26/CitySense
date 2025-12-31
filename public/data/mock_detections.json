@@ -1,110 +1,452 @@
 [
   {
-    "id": "1766996239",
-    "type": "water_logging",
+    "id": "1767103300",
+    "type": "garbage",
     "severity": "High",
-    "lat": 19.116148402758917,
-    "lng": 72.87197376249608,
-    "timestamp": "2025-12-29T13:47:19.174028",
+    "lat": 19.111194801886555,
+    "lng": 72.87402879165411,
+    "timestamp": "2025-12-30T19:31:40.367581",
     "image_url": "https://via.placeholder.com/150?text=Live+Detection"
   },
   {
-    "id": "1766996234",
-    "type": "water_logging",
+    "id": "1767103295",
+    "type": "garbage",
     "severity": "Low",
-    "lat": 19.119943129436358,
-    "lng": 72.86784453109219,
-    "timestamp": "2025-12-29T13:47:14.163681",
+    "lat": 19.122062291347724,
+    "lng": 72.87358434436594,
+    "timestamp": "2025-12-30T19:31:35.355974",
     "image_url": "https://via.placeholder.com/150?text=Live+Detection"
   },
   {
-    "id": "1766996229",
+    "id": "1767103290",
     "type": "garbage",
-    "severity": "Critical",
-    "lat": 19.115325036958946,
-    "lng": 72.87222091099615,
-    "timestamp": "2025-12-29T13:47:09.152361",
-    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
-  },
-  {
-    "id": "1766996224",
-    "type": "garbage",
-    "severity": "Medium",
-    "lat": 19.118432406010015,
-    "lng": 72.87526566204716,
-    "timestamp": "2025-12-29T13:47:04.143283",
-    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
-  },
-  {
-    "id": "1766996219",
-    "type": "garbage",
-    "severity": "High",
-    "lat": 19.106684730013807,
-    "lng": 72.87001710726038,
-    "timestamp": "2025-12-29T13:46:59.129159",
-    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
-  },
-  {
-    "id": "1766996214",
-    "type": "garbage",
-    "severity": "Critical",
-    "lat": 19.119106338391326,
-    "lng": 72.86420511974961,
-    "timestamp": "2025-12-29T13:46:54.117966",
-    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
-  },
-  {
-    "id": "1766996209",
-    "type": "water_logging",
-    "severity": "High",
-    "lat": 19.122542158313067,
-    "lng": 72.8762524438177,
-    "timestamp": "2025-12-29T13:46:49.105152",
-    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
-  },
-  {
-    "id": "1766996204",
-    "type": "water_logging",
     "severity": "Low",
-    "lat": 19.120024772033904,
-    "lng": 72.85972418313105,
-    "timestamp": "2025-12-29T13:46:44.094768",
+    "lat": 19.120773693913964,
+    "lng": 72.87452802042593,
+    "timestamp": "2025-12-30T19:31:30.345404",
     "image_url": "https://via.placeholder.com/150?text=Live+Detection"
   },
   {
-    "id": "1766996199",
+    "id": "1767103285",
     "type": "water_logging",
-    "severity": "Medium",
-    "lat": 19.121122157308086,
-    "lng": 72.8672548022633,
-    "timestamp": "2025-12-29T13:46:39.064911",
+    "severity": "Critical",
+    "lat": 19.120854000194775,
+    "lng": 72.87616541400567,
+    "timestamp": "2025-12-30T19:31:25.329150",
     "image_url": "https://via.placeholder.com/150?text=Live+Detection"
   },
   {
-    "id": 1,
-    "timestamp": 2.5,
+    "id": "1767103280",
+    "type": "water_logging",
+    "severity": "High",
+    "lat": 19.10380802091927,
+    "lng": 72.87694630941981,
+    "timestamp": "2025-12-30T19:31:20.309353",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103275",
+    "type": "garbage",
+    "severity": "High",
+    "lat": 19.108308873332778,
+    "lng": 72.87370902833452,
+    "timestamp": "2025-12-30T19:31:15.293662",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103270",
     "type": "pothole",
-    "lat": 19.1136,
-    "lng": 72.8697,
-    "risk_score": 85,
-    "notes": "Large crater in left lane"
+    "severity": "Medium",
+    "lat": 19.10408404459626,
+    "lng": 72.87602567542407,
+    "timestamp": "2025-12-30T19:31:10.280198",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
   },
   {
-    "id": 2,
-    "timestamp": 12.8,
+    "id": "1767103265",
     "type": "garbage",
-    "lat": 19.114,
-    "lng": 72.8702,
-    "risk_score": 40,
-    "notes": "Overflowing bin on sidewalk"
+    "severity": "Medium",
+    "lat": 19.117507367550846,
+    "lng": 72.86952702008159,
+    "timestamp": "2025-12-30T19:31:05.269979",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
   },
   {
-    "id": 3,
-    "timestamp": 25,
-    "type": "cctv_offline",
-    "lat": 19.1145,
-    "lng": 72.871,
-    "risk_score": 90,
-    "notes": "Signal lost from Pole #44"
+    "id": "1767103260",
+    "type": "pothole",
+    "severity": "Medium",
+    "lat": 19.118831077260808,
+    "lng": 72.8619937087322,
+    "timestamp": "2025-12-30T19:31:00.258476",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103255",
+    "type": "pothole",
+    "severity": "Medium",
+    "lat": 19.11756784798732,
+    "lng": 72.87736057798813,
+    "timestamp": "2025-12-30T19:30:55.246941",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103250",
+    "type": "pothole",
+    "severity": "High",
+    "lat": 19.116877804785105,
+    "lng": 72.86259691344578,
+    "timestamp": "2025-12-30T19:30:50.235766",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103245",
+    "type": "garbage",
+    "severity": "High",
+    "lat": 19.11195600173482,
+    "lng": 72.86229957404151,
+    "timestamp": "2025-12-30T19:30:45.224249",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103240",
+    "type": "pothole",
+    "severity": "Low",
+    "lat": 19.111742060653935,
+    "lng": 72.87258307844445,
+    "timestamp": "2025-12-30T19:30:40.210636",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103235",
+    "type": "garbage",
+    "severity": "Low",
+    "lat": 19.105493175089403,
+    "lng": 72.86489957469718,
+    "timestamp": "2025-12-30T19:30:35.198624",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103230",
+    "type": "pothole",
+    "severity": "Low",
+    "lat": 19.11280049285275,
+    "lng": 72.86134094746063,
+    "timestamp": "2025-12-30T19:30:30.183628",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103225",
+    "type": "garbage",
+    "severity": "Low",
+    "lat": 19.122603155467328,
+    "lng": 72.8750364713831,
+    "timestamp": "2025-12-30T19:30:25.170664",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103220",
+    "type": "garbage",
+    "severity": "High",
+    "lat": 19.114184456131838,
+    "lng": 72.86303311775342,
+    "timestamp": "2025-12-30T19:30:20.157633",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103215",
+    "type": "pothole",
+    "severity": "Medium",
+    "lat": 19.105282236848463,
+    "lng": 72.8655449193439,
+    "timestamp": "2025-12-30T19:30:15.146590",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103210",
+    "type": "water_logging",
+    "severity": "Low",
+    "lat": 19.10836988580426,
+    "lng": 72.86318391430534,
+    "timestamp": "2025-12-30T19:30:10.134844",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103205",
+    "type": "garbage",
+    "severity": "Low",
+    "lat": 19.109115071030757,
+    "lng": 72.87613510291136,
+    "timestamp": "2025-12-30T19:30:05.123455",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103200",
+    "type": "water_logging",
+    "severity": "High",
+    "lat": 19.12091832760109,
+    "lng": 72.87408252714035,
+    "timestamp": "2025-12-30T19:30:00.114097",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103195",
+    "type": "pothole",
+    "severity": "Low",
+    "lat": 19.103867507128754,
+    "lng": 72.87677988506017,
+    "timestamp": "2025-12-30T19:29:55.100312",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103190",
+    "type": "water_logging",
+    "severity": "Critical",
+    "lat": 19.114545289061237,
+    "lng": 72.87702031149529,
+    "timestamp": "2025-12-30T19:29:50.088881",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103185",
+    "type": "pothole",
+    "severity": "High",
+    "lat": 19.108859431765094,
+    "lng": 72.86483588482302,
+    "timestamp": "2025-12-30T19:29:45.079534",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103180",
+    "type": "garbage",
+    "severity": "High",
+    "lat": 19.114816976765265,
+    "lng": 72.86586988117018,
+    "timestamp": "2025-12-30T19:29:40.068636",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103175",
+    "type": "garbage",
+    "severity": "High",
+    "lat": 19.107251843318263,
+    "lng": 72.86144679963675,
+    "timestamp": "2025-12-30T19:29:35.060143",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103170",
+    "type": "garbage",
+    "severity": "High",
+    "lat": 19.122983313763285,
+    "lng": 72.87495217732287,
+    "timestamp": "2025-12-30T19:29:30.044751",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103165",
+    "type": "garbage",
+    "severity": "Medium",
+    "lat": 19.1167338611654,
+    "lng": 72.86248247041756,
+    "timestamp": "2025-12-30T19:29:25.037527",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103160",
+    "type": "pothole",
+    "severity": "Medium",
+    "lat": 19.10402528366269,
+    "lng": 72.87822739112885,
+    "timestamp": "2025-12-30T19:29:20.025697",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103155",
+    "type": "garbage",
+    "severity": "Critical",
+    "lat": 19.118489251918888,
+    "lng": 72.86413520302325,
+    "timestamp": "2025-12-30T19:29:15.015740",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103150",
+    "type": "garbage",
+    "severity": "Critical",
+    "lat": 19.110872107633003,
+    "lng": 72.87502585902728,
+    "timestamp": "2025-12-30T19:29:10.001907",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103144",
+    "type": "garbage",
+    "severity": "Medium",
+    "lat": 19.109537288437597,
+    "lng": 72.87668263389875,
+    "timestamp": "2025-12-30T19:29:04.991089",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103139",
+    "type": "water_logging",
+    "severity": "Medium",
+    "lat": 19.10778563195188,
+    "lng": 72.8793600309348,
+    "timestamp": "2025-12-30T19:28:59.980565",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103134",
+    "type": "water_logging",
+    "severity": "Critical",
+    "lat": 19.109164377328167,
+    "lng": 72.8745938195046,
+    "timestamp": "2025-12-30T19:28:54.970992",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103129",
+    "type": "garbage",
+    "severity": "Critical",
+    "lat": 19.106968566833462,
+    "lng": 72.86556173041116,
+    "timestamp": "2025-12-30T19:28:49.959148",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103124",
+    "type": "pothole",
+    "severity": "Critical",
+    "lat": 19.110013186504474,
+    "lng": 72.86136403789193,
+    "timestamp": "2025-12-30T19:28:44.942602",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103119",
+    "type": "garbage",
+    "severity": "Low",
+    "lat": 19.108241663858326,
+    "lng": 72.86700151569168,
+    "timestamp": "2025-12-30T19:28:39.929706",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103114",
+    "type": "garbage",
+    "severity": "Low",
+    "lat": 19.118648936096257,
+    "lng": 72.86110061369033,
+    "timestamp": "2025-12-30T19:28:34.912428",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103109",
+    "type": "water_logging",
+    "severity": "Medium",
+    "lat": 19.122320899330905,
+    "lng": 72.86005072849554,
+    "timestamp": "2025-12-30T19:28:29.896255",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103104",
+    "type": "water_logging",
+    "severity": "High",
+    "lat": 19.121975003360948,
+    "lng": 72.8691317201898,
+    "timestamp": "2025-12-30T19:28:24.888274",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103099",
+    "type": "garbage",
+    "severity": "Critical",
+    "lat": 19.11772237967305,
+    "lng": 72.86579041464454,
+    "timestamp": "2025-12-30T19:28:19.877143",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103094",
+    "type": "water_logging",
+    "severity": "Low",
+    "lat": 19.10421134524524,
+    "lng": 72.87808527558904,
+    "timestamp": "2025-12-30T19:28:14.864785",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103089",
+    "type": "pothole",
+    "severity": "Low",
+    "lat": 19.120879559674158,
+    "lng": 72.86585556857379,
+    "timestamp": "2025-12-30T19:28:09.851815",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767103084",
+    "type": "pothole",
+    "severity": "Low",
+    "lat": 19.119669311522095,
+    "lng": 72.86952115059582,
+    "timestamp": "2025-12-30T19:28:04.805571",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767099748",
+    "type": "pothole",
+    "severity": "Low",
+    "lat": 19.122872434234935,
+    "lng": 72.87033368358313,
+    "timestamp": "2025-12-30T18:32:28.278000",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767099743",
+    "type": "pothole",
+    "severity": "High",
+    "lat": 19.11897700430673,
+    "lng": 72.8663528153428,
+    "timestamp": "2025-12-30T18:32:23.267084",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767099738",
+    "type": "water_logging",
+    "severity": "Low",
+    "lat": 19.10373223344739,
+    "lng": 72.8782214857584,
+    "timestamp": "2025-12-30T18:32:18.256670",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767099733",
+    "type": "water_logging",
+    "severity": "Low",
+    "lat": 19.12038736263265,
+    "lng": 72.86379363895003,
+    "timestamp": "2025-12-30T18:32:13.247521",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767099728",
+    "type": "pothole",
+    "severity": "Low",
+    "lat": 19.113991101580943,
+    "lng": 72.87751774871452,
+    "timestamp": "2025-12-30T18:32:08.236342",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
+  },
+  {
+    "id": "1767099723",
+    "type": "pothole",
+    "severity": "Critical",
+    "lat": 19.112121587679145,
+    "lng": 72.87615031187015,
+    "timestamp": "2025-12-30T18:32:03.225673",
+    "image_url": "https://via.placeholder.com/150?text=Live+Detection"
   }
 ]
