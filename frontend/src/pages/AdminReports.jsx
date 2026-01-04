@@ -185,7 +185,6 @@ export default function AdminReports() {
             </tbody>
           </table>
         </div>
-
       </div>
     </div>
   );
