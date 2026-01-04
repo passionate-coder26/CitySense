@@ -17,7 +17,7 @@ export default function CitizenPortal() {
   // 1. FETCH LIVE DATA
   const fetchDetections = async () => {
     try {
-      const res = await fetch('http://localhost:5000/api/detections');
+      const res = await fetch('https://citysenseai.onrender.com/api/detections');
       const data = await res.json();
       setDetections(data);
       setLoading(false);
@@ -73,7 +73,7 @@ export default function CitizenPortal() {
     };
 
     try {
-        await fetch('http://localhost:5000/api/update-live-data', {
+        await fetch('https://citysenseai.onrender.com/api/update-live-data', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(newIssue)
