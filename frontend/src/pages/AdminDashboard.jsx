@@ -32,7 +32,7 @@ export default function AdminDashboard() {
   // 1. FETCH DATA FROM YOUR BACKEND
   const fetchDetections = async () => {
     try {
-      const res = await fetch('http://localhost:5000/api/detections'); 
+      const res = await fetch('https://citysenseai.onrender.com/api/detections'); 
       const data = await res.json();
       setDetections(data);
       
@@ -87,7 +87,7 @@ export default function AdminDashboard() {
         ));
 
         // Call Backend
-        await fetch(`http://localhost:5000/api/detections/${id}/resolve`, {
+        await fetch(`https://citysenseai.onrender.com/api/detections/${id}/resolve`, {
             method: 'PATCH'
         });
         
