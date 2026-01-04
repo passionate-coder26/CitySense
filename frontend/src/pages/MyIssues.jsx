@@ -9,7 +9,7 @@ export default function MyIssues() {
 
   // 1. FETCH REAL DATA FROM BACKEND
   useEffect(() => {
-    fetch('http://localhost:5000/api/detections')
+    fetch('https://citysenseai.onrender.com/api/detections')
       .then(res => res.json())
       .then(data => {
         // We need to map your Backend data to match the UI format she expects
