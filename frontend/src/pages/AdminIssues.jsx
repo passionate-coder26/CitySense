@@ -8,7 +8,7 @@ export default function AdminIssues() {
 
   // 1. FETCH DATA
   useEffect(() => {
-    fetch('http://localhost:5000/api/detections')
+    fetch('https://citysenseai.onrender.com/api/detections')
       .then(res => res.json())
       .then(data => {
         setDetections(data);
