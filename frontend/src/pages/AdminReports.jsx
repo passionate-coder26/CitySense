@@ -15,7 +15,7 @@ export default function AdminReports() {
 
   // 1. FETCH DATA
   useEffect(() => {
-    fetch('http://localhost:5000/api/detections')
+    fetch('https://citysenseai.onrender.com/api/detections')
       .then(res => res.json())
       .then(data => setDetections(data))
       .catch(err => console.error("API Error:", err));
@@ -25,7 +25,7 @@ export default function AdminReports() {
   const generateAIReport = async () => {
     setGenerating(true);
     try {
-      const res = await fetch('http://localhost:5000/api/generate-report', {
+      const res = await fetch('https://citysenseai.onrender.com/api/generate-report', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ detections: detections.slice(0, 20) })
